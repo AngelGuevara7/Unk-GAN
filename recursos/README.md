@@ -12,10 +12,10 @@ El bueno:
 https://colab.research.google.com/drive/1SLpcNh47ojG48jRX-IkJtd1uzTiM-j2x?usp=sharing
 
 
-**deprecated:**   
 
 ---
 
+**deprecated:**    
 (el del gif):  
 https://drive.google.com/file/d/12ae-M62RGr8vN0mlXu6hqVKoUrzKXnxv/view?usp=sharing  
 Salió mal:  
