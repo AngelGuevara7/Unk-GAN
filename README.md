@@ -1,4 +1,4 @@
-# Unk-GAN
+# Un-GAN
 Unowns GAN generator, nothing more, nothing less...
 
 
