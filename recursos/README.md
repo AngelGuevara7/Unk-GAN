@@ -9,8 +9,7 @@ https://arxiv.org/abs/1710.10196
 ---
 
 El bueno:  
-https://colab.research.google.com/drive/1SLpcNh47ojG48jRX-IkJtd1uzTiM-j2x?usp=sharing
-
+https://colab.research.google.com/drive/1SLpcNh47ojG48jRX-IkJtd1uzTiM-j2x?usp=sharing (solo lo puedes abrir si estás añadido a la lista)
 
 
 ---
