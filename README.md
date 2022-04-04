@@ -18,6 +18,7 @@ The construction of the GAN is done in two steps (**progresive training**):
 
 ![Generated ones](recursos/dcgan_unos_progresive_lowres2.gif)
 
+It does repeat many of the original shapes, but it is normal considering the few examples we have provided it with. Some new forms come up eventually.  
 
 # COMENTARIOS 
 
