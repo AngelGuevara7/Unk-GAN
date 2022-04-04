@@ -8,7 +8,7 @@ Unowns GAN generator, nothing more, nothing less...
 
 _Generated ones:_  
 
-The construction of the GAN is done in two steps:  
+The construction of the GAN is done in two steps (**progresive training**):  
 
 **First step:  **
 
@@ -16,7 +16,7 @@ The construction of the GAN is done in two steps:
 
 **Second step:**  
 
-![Generated ones](recursos/dcgan_unos_mejor2_lowres.gif)
+![Generated ones](recursos/dcgan_unos_progresive_lowres2.gif)
 
 
 # COMENTARIOS 
