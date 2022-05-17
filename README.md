@@ -12,7 +12,7 @@ The construction of the GAN is done in two steps (**progresive training**):
 
 **First step:  **
 
-![Generated ones](dcgan_unos_mejor2_lowres.gif)
+![Generated ones](results(dcgan_unos_mejor2_lowres.gif)
 
 **Second step:**  
 
