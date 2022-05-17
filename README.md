@@ -2,7 +2,7 @@
 Unowns GAN generator, nothing more, nothing less...
 
 
-![Real ones](los-unown-desbloquean-medallas-en-pokemon-go_fzez.jpg)
+![Real ones](./datos_input/los-unown-desbloquean-medallas-en-pokemon-go_fzez.jpg)
 
 
 
@@ -22,5 +22,8 @@ It does repeat many of the original shapes, but it is normal considering the few
 
 # COMENTARIOS 
 
-
+Presentación:  
+https://docs.google.com/presentation/d/1O7tvokOFY0WprF25QzxtgTfFmqiyF-eJRt6dczwxM_E/edit?usp=sharing
+  
+Notebook:  
 https://colab.research.google.com/drive/1sNUToHPXnI9cOy5dR7IBrisQVxR4N9-O?usp=sharing
