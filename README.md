@@ -26,4 +26,4 @@ Presentación:
 https://docs.google.com/presentation/d/1O7tvokOFY0WprF25QzxtgTfFmqiyF-eJRt6dczwxM_E/edit?usp=sharing
   
 Notebook:  
-https://colab.research.google.com/drive/1sNUToHPXnI9cOy5dR7IBrisQVxR4N9-O?usp=sharing
+https://colab.research.google.com/drive/1SLpcNh47ojG48jRX-IkJtd1uzTiM-j2x?usp=sharing
