@@ -10,11 +10,11 @@ _Generated ones:_
 
 The construction of the GAN is done in two steps (**progresive training**):  
 
-**First step:  **
+**First stage:**
 
-![Generated ones](results(dcgan_unos_mejor2_lowres.gif)
+![Generated ones](results/dcgan_unos_mejor2_lowres.gif)
 
-**Second step:**  
+**Second stage:**  
 
 ![Generated ones](recursos/dcgan_unos_progresive_lowres2.gif)
 
